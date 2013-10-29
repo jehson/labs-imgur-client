@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mpg/!svn/ver/65955/labs/labs-imgur-client/trunk/grails-app/views/human
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mpg/!svn/ver/65955/labs/labs-imgur-client/trunk/grails-app/views/human/edit.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mpg/!svn/ver/65955/labs/labs-imgur-client/trunk/grails-app/views/human/create.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mpg/!svn/ver/65955/labs/labs-imgur-client/trunk/grails-app/views/human/show.gsp
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mpg/!svn/ver/65955/labs/labs-imgur-client/trunk/grails-app/views/human/list.gsp
+END
+_form.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mpg/!svn/ver/65955/labs/labs-imgur-client/trunk/grails-app/views/human/_form.gsp
+END

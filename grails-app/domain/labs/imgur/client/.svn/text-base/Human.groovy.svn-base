@@ -1,0 +1,16 @@
+package labs.imgur.client
+
+class Human {
+
+    String name
+    byte[] picture
+    String pictureLink
+    String albumAnonId
+    
+    static constraints = {
+	name blank:false
+	picture blank:false, nullable:true, size:0..1000000
+	pictureLink blank:true, nullable:true
+	albumAnonId blank:true, nullable:true
+    }
+}

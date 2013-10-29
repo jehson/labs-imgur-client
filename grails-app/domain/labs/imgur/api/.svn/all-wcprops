@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mpg/!svn/ver/65955/labs/labs-imgur-client/trunk/grails-app/domain/labs/imgur/api
+END
+BasicResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mpg/!svn/ver/66011/labs/labs-imgur-client/trunk/grails-app/domain/labs/imgur/api/BasicResponse.java
+END
+Album.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/mpg/!svn/ver/66007/labs/labs-imgur-client/trunk/grails-app/domain/labs/imgur/api/Album.java
+END
+Image.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/mpg/!svn/ver/66010/labs/labs-imgur-client/trunk/grails-app/domain/labs/imgur/api/Image.java
+END
+ImageUploadRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mpg/!svn/ver/66009/labs/labs-imgur-client/trunk/grails-app/domain/labs/imgur/api/ImageUploadRequest.java
+END
+AlbumCreationRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/mpg/!svn/ver/66012/labs/labs-imgur-client/trunk/grails-app/domain/labs/imgur/api/AlbumCreationRequest.java
+END

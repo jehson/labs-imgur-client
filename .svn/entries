@@ -1,0 +1,88 @@
+10
+
+dir
+65955
+http://10.133.154.62:7777/svn/mpg/labs/labs-imgur-client/trunk
+http://10.133.154.62:7777/svn/mpg
+
+
+
+2013-10-25T10:35:24.244013Z
+65955
+jsamante
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9e8ccc9e-0d08-423c-94b4-f8c3fde56472
+
+
+
+
+
+
+0
+immediates
+
+application.properties
+file
+
+
+
+
+2013-10-25T09:37:52.543000Z
+42c0db80207469a1cccdd417d1f4594e
+2013-10-25T10:35:24.244013Z
+65955
+jsamante
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+125
+
+grails-app
+dir
+
+lib
+dir
+
+scripts
+dir
+
+src
+dir
+
+test
+dir
+
+web-app
+dir
+

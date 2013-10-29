@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 52
+.settings
+target
+target-eclipse
+.classpath
+.project
+
+END
